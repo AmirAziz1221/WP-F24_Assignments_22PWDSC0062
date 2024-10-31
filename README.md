@@ -5,7 +5,7 @@
 Welcome to my repository! This repo is dedicated to all my web programming assignments for *Semester 5*, Fall 2024, at *UET Peshawar*. The purpose of this project is to showcase my progress and projects completed during this semester under the guidance of my instructor, **Muhammad Sir**.
 
 ## About Instructor
-**NAME**: **Muhammad Sir**
+**NAME**: **Muhammad Sir**<br>
 *University of science and Technology Peshawar*
 ### About Me
 
