@@ -4,6 +4,9 @@
 
 Welcome to my repository! This repo is dedicated to all my web programming assignments for *Semester 5*, Fall 2024, at *UET Peshawar*. The purpose of this project is to showcase my progress and projects completed during this semester under the guidance of my instructor, **Muhammad Sir**.
 
+## About Instructor
+**NAME**: **Muhammad Sir**
+*University of science and Technology Peshawar*
 ### About Me
 
 - **Name**: Amir Aziz
@@ -14,8 +17,8 @@ Welcome to my repository! This repo is dedicated to all my web programming assig
 This repository includes various web programming projects, including:
 
 - Fitness and Wellness Website
-- HTML and CSS assignments
-- JavaScript projects
+- HTML
+- CSS
 
 Feel free to explore each project folder to view the code, and check out the provided resources.
 
